@@ -12,4 +12,4 @@ My current workout split is as follows:
     7. Sunday - Rest  
 
 The workouts have been logged since January 18th, 2023. All weights are in pounds.
-In addition to the .csv files, I have also performed data analysis in R Programming.
+In addition to the .csv files, I have also performed data analysis in Python and R Programming.
