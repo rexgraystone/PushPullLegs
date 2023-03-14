@@ -2,7 +2,7 @@
 
 This repository contains .csv files of my personal progress doing Jeff Nippard's [Push Pull Legs Routine](https://www.youtube.com/watch?v=qVek72z3F1U). I have modified some exercises from the video to my personal preferences.
 
-My current workout split is as follows:
+My current workout split is as follows:  
     1. Monday - Leg Day 1 (Quad Focused)  
     2. Tuesday - Push Day 1 (Lower Chest Focused)  
     3. Wednesday - Pull Day 1 (Lat Focused)  
